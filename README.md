@@ -34,7 +34,23 @@
 <a href="https://www.notion.so" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://slack.com/intl/ko-kr/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
- [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<!-- 
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ <div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true" />
+</picture>
   </div>
 
 
