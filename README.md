@@ -3,6 +3,8 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">Techs that I mainly use</p>
 
+<p align="center">![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)</p>
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
