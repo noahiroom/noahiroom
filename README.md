@@ -52,13 +52,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true" />
 </picture>
-  </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahiroom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
+  <br>
+  <picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahiroom&layout=compact" />
 </picture>
+  </div>
+
 
 <!--
 **noahiroom/noahiroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
