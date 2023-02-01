@@ -54,7 +54,7 @@
 </picture>
   <br><br>
   <picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahiroom&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahiroom&layout=compact"  width="450"  />
 </picture>
   </div>
 
