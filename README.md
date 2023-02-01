@@ -58,6 +58,42 @@
 </picture>
   </div>
 
+# CAREER
+
+<table style="width:100%">
+ <tr>
+    <th>YEAR</th>
+    <th>ORGANIZATION</th>
+  </tr>
+  <tr>
+    <td>2018. 03. <br>~ <br>ongoing</td>
+    <td>건양대학교 의학과(Konyang University's College of Medicine)</td>
+  </tr>
+  <tr>
+    <td>2021. 01. <br>~ <br>ongoing</td>
+    <td>건양대병원 헬스케어 데이터사이언스 센터 인턴(Konyang University Healthcare Data Science Center)</td>
+  </tr>
+</table>
+
+# PROJECT LIST
+<table  style="width:100%">
+ <tr>
+    <th  style="width:20%">YEAR</th>
+    <th>**Medical AI Project**</th>
+    <th>PAPER/<br>ORGANIZATION</th>
+  </tr>
+  <tr>
+    <td>2021. 01. <br>~ <br>2021. 03.</td>
+    <td>X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection</td>
+    <td>한국정보과학회 KCC2021</td>
+  </tr>
+  <tr>
+    <td>2021. 01. <br>~ <br>진행 중.</td>
+    <td>Explainable Machine Learning Based a Packed Red Blood Cell Transfusion Prediction and Evaluation for Major Internal Medical Condition
+</td>
+    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002856677">Journal of Information Processing System</a></td>
+  </tr>
+</table>
 
 <!--
 **noahiroom/noahiroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
