@@ -4,7 +4,7 @@
 <p align="center">Techs that I mainly use</p>
 
 <div align="center">
-  ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 </div>
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
