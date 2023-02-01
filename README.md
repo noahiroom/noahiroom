@@ -52,7 +52,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=noahiroom&show_icons=true" />
 </picture>
-  <br>
+  <br><br>
   <picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahiroom&layout=compact" />
 </picture>
