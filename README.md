@@ -36,7 +36,7 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 
-
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahiroom)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
