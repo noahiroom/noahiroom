@@ -95,6 +95,39 @@
   </tr>
 </table>
 
+<!-- PERSONAL PROJECT -->
+<table  style="width:100%">
+ <tr>
+    <th  style="width:20%">YEAR</th>
+    <th>**AI Service Project**</th>
+    <th>ORGANIZATION</th>
+  </tr>
+  <tr>
+    <td>2021. 01. <br>~ <br>2021. 03.</td>
+    <td><a href="https://github.com/noahiroom/Eagle-Eye-Pneumonia-Detection">Unity 환경에서 강화학습을 활용한 Robot Arm 트레이닝 구현</a></td>
+    <td>Personal Project</td>
+  </tr>
+  <tr>
+    <td>2021. 07. <br>~ <br>2021. 12.</td>
+    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002856677">뇌파를 활용하여 페이지 스크롤 작동 구현</a>
+</td>
+    <td>Personal Project</td>
+  </tr>
+</table>
+
+<table  style="width:100%">
+ <tr>
+    <th  style="width:20%">YEAR</th>
+    <th>**AI Service Project**</th>
+    <th>ORGANIZATION</th>
+  </tr>
+  <tr>
+    <td>2021. 01. <br>~ <br>2021. 03.</td>
+    <td><a href="https://github.com/noahiroom/Eagle-Eye-Pneumonia-Detection">프로젝트 팀 모집 및 네트워킹 플랫폼 개발</a></td>
+    <td>Personal Project</td>
+  </tr>
+</table>
+
 <!--
 **noahiroom/noahiroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
