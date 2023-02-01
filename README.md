@@ -84,14 +84,14 @@
   </tr>
   <tr>
     <td>2021. 01. <br>~ <br>2021. 03.</td>
-    <td>X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection</td>
-    <td>한국정보과학회 KCC2021</td>
+    <td><a href="https://github.com/noahiroom/Eagle-Eye-Pneumonia-Detection">X-ray 이미지 활용한 상세한 폐렴(COVID-19라벨링 포함) 분류 및 RetinaNet을 활용한 Object Detection</a></td>
+    <td><a href="https://www.kiise.or.kr/conference/kcc/2021/">한국정보과학회 KCC2021</a></td>
   </tr>
   <tr>
-    <td>2021. 01. <br>~ <br>진행 중.</td>
-    <td>Explainable Machine Learning Based a Packed Red Blood Cell Transfusion Prediction and Evaluation for Major Internal Medical Condition
+    <td>2021. 07. <br>~ <br>2021. 12.</td>
+    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002856677">Explainable Machine Learning Based a Packed Red Blood Cell Transfusion Prediction and Evaluation for Major Internal Medical Condition</a>
 </td>
-    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002856677">Journal of Information Processing System</a></td>
+    <td><a href="http://jips-k.org/">Journal of Information Processing System (KCI등재)</a></td>
   </tr>
 </table>
 
