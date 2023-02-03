@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td>2022. 08. <br>~ <br>2022. 11.</td>
-    <td><a href="">프로젝트 팀 모집 및 네트워킹 플랫폼 앱 개발</a></td>
+    <td><a href="https://github.com/noahiroom/wooz-app-flutter">프로젝트 팀 모집 및 네트워킹 플랫폼 앱 개발</a></td>
     <td>Personal Project</td>
   </tr>
 </table>
